@@ -1,0 +1,1 @@
+{"description":"Writes the funniest one-line out-of-office reply to entry.txt","license":"MIT","main":"main.ts","name":"makefun-one-line-out-of-office","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
